@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  font-family: Raleway;
+  text-align: center;
+}
+/* Общий блок */
+#OurProcessPanel {
+  width: 1402px;
+  height: 587px;
+  background-color: #ffffff;
+}
+/* блок шапки */
+.OurTitle {
+  margin: auto;
+  margin-top: 100px;
+  width: 440px;
+  height: 177px;
+}
+.OurProcessTitle {
+  padding-top: 2px;
+  font-size: 36px;
+  color: #212121;
+}
+.Rectangle8 {
+  width: 102px;
+  height: 2px;
+  margin: auto;
+  margin-top: 22px;
+  border: 0px;
+  background-color: #ff8b38;
+}
+.OurContent1 {
+  font-size: 14px;
+  margin-top: 22px;
+  color: #86878b;
+}
+/* Нижние блоки */
+.InfoBlock {
+  width: 1244px;
+  height: 217px;
+  margin-left: 111px;
+}
+.OurContent2 {
+  width: 349px;
+  height: 210px;
+  font-size: 14px;
+  margin: 0px 0px 0px 33px;
+  float: left;
+  color: #86878b;
+}
+.circle {
+  width: 70px;
+  height: 70px;
+  margin: 0px auto;
+  border: 2px solid #ff8b38;
+  border-radius: 100px;
+}
+.icon1 {
+  margin: 18px 26px 16px 25px;
+  width: 19px;
+  height: 37px;
+}
+.icon2 {
+  margin: 23px 17px;
+  width: 35px;
+  height: 37px;
+}
+
+.icon3 {
+  margin: 18px 27px 16px 27px;
+  width: 16px;
+  height: 37px;
+}
+.IconName {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 22px;
+  margin-bottom: 16px;
+  color: #333333;
+}
