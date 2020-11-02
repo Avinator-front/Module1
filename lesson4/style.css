@@ -106,21 +106,17 @@ li.menu-paragraph {
 .color-gray {
   color: rgb(68, 72, 87);
 }
-.sct2-options {
+/* для блоков общее */
+ul.block-options {
   display: inline-block;
   text-align: center;
   font-size: 14px;
-}
-/* для блоков общее */
-ul.block-options {
   width: 350px;
   padding: 0;
   margin-bottom: 45px;
 }
 /* для небольших отступов при сужении окна между блоками */
-ul.block-options3 {
-  width: 350px;
-  padding: 0;
+ul.block3-add {
   margin-bottom: 111px;
 }
 li.block-black {
